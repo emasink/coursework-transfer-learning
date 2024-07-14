@@ -13,3 +13,6 @@ Due to github limitations on size of data to upload, before executing code found
 3. Running pretrained model with Dubai dataset, extracting features.
 4. Using extracted features as input to train simple 2 layer model.
 5. Evaluating results.
+
+### Execution order for notebooks:
+main_resnet_pretraining.ipynb -> transfer_learning.ipynb -> graphs.ipybnb
